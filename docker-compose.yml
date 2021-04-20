@@ -4,4 +4,4 @@ services:
     build: .
     tty: true
     volumes:
-      - .:/adding-up
+      - .:/adding-up-1
